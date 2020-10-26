@@ -1,2 +1,12 @@
-# scaffolding-dva
-use dva.
+# Use dva
+
+```bash
+# dev
+yarn start
+
+# build
+yarn build
+
+# test
+yarn test
+```
