@@ -9,10 +9,10 @@
   },
   "dependencies": {
     "dva": "^2.4.1",
-    "react": "^16.6.1",
-    "react-dom": "^16.6.1"
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
   },
   "devDependencies": {
-    "@lugia/mega-scripts": "^1.2.0"
+    "@lugia/mega-scripts": "^1.6.4"
   }
 }
